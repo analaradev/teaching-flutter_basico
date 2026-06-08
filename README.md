@@ -1,16 +1,23 @@
-# cursoflutter
+# Curso Flutter Basico
 
-A new Flutter project.
+Material de apoyo para curso introductorio de Flutter.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Acompanhar a estudiantes o participantes en los primeros pasos con Flutter, desde la estructura basica del proyecto hasta la construccion de interfaces simples.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contenido
+
+- Ejemplos base de Flutter
+- Practicas guiadas
+- Componentes de interfaz
+- Ejercicios para reforzar conceptos iniciales
+
+## Uso
+
+Este repositorio funciona como material didactico para clases, talleres o sesiones de introduccion al desarrollo movil con Flutter.
