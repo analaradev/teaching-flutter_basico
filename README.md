@@ -4,7 +4,7 @@ Material de apoyo para curso introductorio de Flutter.
 
 ## Objetivo
 
-Acompanhar a estudiantes o participantes en los primeros pasos con Flutter, desde la estructura basica del proyecto hasta la construccion de interfaces simples.
+Acompanar a estudiantes o participantes en los primeros pasos con Flutter, desde la estructura basica del proyecto hasta la construccion de interfaces simples.
 
 ## Tecnologias
 
